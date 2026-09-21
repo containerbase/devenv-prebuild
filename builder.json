@@ -1,0 +1,10 @@
+{
+  "image": "devenv",
+  "depName": "cachix/devenv",
+  "datasource": "github-tags",
+  "versioning": "semver",
+  "startVersion": "2.3.1",
+  "ignoredVersions": [],
+  "extractVersion": "^v(?<version>.*)$",
+  "reverse": true
+}
