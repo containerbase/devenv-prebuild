@@ -34,7 +34,7 @@ fi
 echo "------------------------"
 echo "init repo"
 
-git reset --hard "${TOOL_VERSION}"
+git reset --hard "v${TOOL_VERSION}"
 git clean -fdx
 
 
