@@ -7,4 +7,4 @@
 FROM scratch
 
 # renovate: datasource=github-tags depName=devenv packageName=cachix/devenv versioning=semver
-ENV DEVENV_VERSION=v2.3.1
+ENV DEVENV_VERSION=v2.4.0
